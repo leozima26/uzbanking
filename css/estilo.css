@@ -1,0 +1,62 @@
+body {
+	background: linear-gradient(270deg, rgb(255, 70, 70), rgb(59, 19, 133));
+}
+
+#home {
+	color: white;
+}
+
+nav.navbar-transparente {
+	padding: 15px 0px;
+	background: rgba(0, 0, 0, 0.4)
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: white
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	color: rgb(245, 149, 149)
+}
+
+h2,
+h4 {
+	color: rgb(0, 0, 0)
+}
+
+.navbar-light .navbar-toggler {
+	color: white;
+	border-color: white;
+}
+
+nav.navbar-light .navbar.toggler-icon {
+	color: white
+}
+
+.caixa {
+	background-color: rgb(235, 235, 235)
+}
+
+a {
+	color: #ffffff;
+}
+
+a:hover {
+	color: black
+}
+
+h2.display-4 {
+	color: rgb(57, 120, 255)
+}
+
+h2.section-mensal {
+	color: white
+}
+
+p.entradas {
+	color: rgb(157, 255, 178)
+}
+
+p.saidas {
+	color: rgb(253, 176, 176)
+}
